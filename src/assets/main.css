@@ -1,1 +1,7 @@
+@import './bootstrap.min.css';
 
+*{
+    background-color: plum;
+    padding: 0;
+    margin: 0;
+}
